@@ -1,0 +1,35 @@
+1.Delbot: Building An NLP-Based, Voice-Driven Bot From Scratch in Python
+
+https://chatbotsmagazine.com/delbot-nlp-python-bot-1a46d865e38b
+
+2.NLP Tutorial Using Python NLTK (Simple Examples) 
+
+https://dzone.com/articles/nlp-tutorial-using-python-nltk-simple-examples
+
+3.Build your own Natural Language Processing based Intelligent Assistant using Python, It’s easy!
+
+https://xrds.acm.org/blog/2017/01/build-natural-language-processing-based-intelligent-assistant-using-python-easy/
+
+4.Natural Language Processing and Voice Recognition Resources
+
+http://niawdeleon.com/nlp-voice-recognition-resources/
+
+5.The Ultimate Guide To Speech Recognition With Python
+
+https://realpython.com/python-speech-recognition/
+
+6.Ultimate Guide to Understand & Implement Natural Language Processing (with codes in Python)
+
+https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+
+7.13 Deep Learning Frameworks for Natural Language Processing in Python
+
+https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98
+
+8.Introduction to Natural Language Processing (NLP)
+
+https://blog.algorithmia.com/introduction-natural-language-processing-nlp/
+
+9.5 Heroic Python NLP Libraries
+
+https://elitedatascience.com/python-nlp-libraries
